@@ -1,7 +1,7 @@
 [![Nader's GitHub Banner](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://braydoncoyer.dev)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/handsomeNader)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/nader-hassan-24392820a)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nader-hassan-24392820a/)
 [![LinkedIn Badge](https://aleen42.github.io/badges/src/google_plus.svg)](nader.hassan001@gmail.com)
 
 
