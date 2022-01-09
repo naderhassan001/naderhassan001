@@ -1,9 +1,7 @@
-[![Nader's GitHub Banner](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://braydoncoyer.dev)
+[![Nader's GitHub Banner](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naderhassan001?tab=repositories)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/handsomeNader)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nader-hassan-24392820a/)
-[![LinkedIn Badge](https://aleen42.github.io/badges/src/google_plus.svg)](nader.hassan001@gmail.com)
-
 
 Hey there 👋
 I'm Nader, a full stack software engineer from Boston, MA. As a graduate of MIT's Full Stack Software Engingeering program, I have the privliage of learning from the best institution in order to tackle the biggest problems surrounding my community today. I have a strong passion for learning and using my knowlage to help those in underprivileged communities. With the right drive, technical proficiency, and comprehension of the actual problems at hand, we can use technology to solve the problems inflicting the American families in the greater Boston area. 
@@ -36,7 +34,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/naderhassan001/frontend-covidtracker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
