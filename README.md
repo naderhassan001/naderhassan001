@@ -6,7 +6,7 @@
 Hey there 👋
 I'm Nader, a full stack software engineer from Boston, MA. As a graduate of MIT's Full Stack Software Engingeering program, I have the privliage of learning from the best institution in order to tackle the biggest problems surrounding my community today. I have a strong passion for learning and using my knowlage to help those in underprivileged communities. With the right drive, technical proficiency, and comprehension of the actual problems at hand, we can use technology to solve the problems inflicting the American families in the greater Boston area. 
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://naderhassan.org)
 
 ## 📝 Latest Blog Posts
 
